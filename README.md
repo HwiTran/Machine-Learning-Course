@@ -1,6 +1,6 @@
 # IntroMachineLearningCourse
-Introduction Machine Learning Course at HCMUS 
-\ It includes classic machine learning and an introduction to deep learning:
+Introduction Machine Learning Course at HCMUS__
+It includes classic machine learning and an introduction to deep learning:
 - Linear Regression
 - Logistic Regression
 - Naive Bayes
